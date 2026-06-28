@@ -42,7 +42,7 @@ A **ground-up implementation of a GPT-3 style transformer language model** that 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/LLM-From-Scratch.git
+git clone https://github.com/NayeemHossenJim/LLM-From-Scratch.git
 cd LLM-From-Scratch
 
 # 2. Set up Python environment
