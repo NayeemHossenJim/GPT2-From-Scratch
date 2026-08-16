@@ -22,7 +22,7 @@ An educational implementation of a GPT-style language model in **PyTorch**, desi
 
 ## What Is This?
 
-A **ground-up implementation of a GPT-3 style transformer language model** that teaches how modern LLMs work internally. Every component is explicit, well-documented, and built for understanding.
+A **ground-up implementation of a GPT-2 style transformer language model** that teaches how modern LLMs work internally. Every component is explicit, well-documented, and built for understanding.
 
 **Core Components:**  
 ⊕ **Tokenization & Embeddings** — Converting text into learnable vectors  
